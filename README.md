@@ -14,3 +14,6 @@ Simply changing the direction of the connected cable can change the direction of
 
 # How to build
 I use MotorDriver(L298N),BluetoothLE module(HM-10), 2 * 9v battery(1 for plug, 1 for cable), 2 geared motor.  
+
+# example image
+<img width="100%" src="https://github.com/QKRM/BB_8_with_arduino/blob/main/etc/play.gif"/>
