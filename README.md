@@ -11,3 +11,6 @@ tutorial for ble https://iot.appinventor.mit.edu/assets/tutorials/MIT_App_Invent
 # sketch_jun06a.ino
 
 Simply changing the direction of the connected cable can change the direction of operation of the motor.Please change the value and cable according to the situation.
+
+# How to build
+I use MotorDriver(L298N),BluetoothLE module(HM-10), 2 * 9v battery(1 for plug, 1 for cable), 2 geared motor.  
